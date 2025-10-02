@@ -1,0 +1,1 @@
+TypeScript Go [Issue 1778](https://github.com/microsoft/typescript-go/issues/1778) repro: [![TypeScript](https://github.com/a11delavar/tsgo-bug-1778/actions/workflows/typescript.yml/badge.svg)](https://github.com/a11delavar/tsgo-bug-1778/actions/workflows/typescript.yml)
