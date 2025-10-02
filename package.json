@@ -1,5 +1,13 @@
 {
+	"scripts": {
+		"tsc": "tsc --noEmit",
+		"tsgo": "tsgo --noEmit"
+	},
 	"dependencies": {
 		"lit": "x"
+	},
+	"devDependencies": {
+		"typescript": "x",
+		"@typescript/native-preview": "7.0.0-dev.20251002.1"
 	}
 }
